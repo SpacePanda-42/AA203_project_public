@@ -1,7 +1,3 @@
-"""
-Starter code for the problem "Obstacle avoidance".
-Autonomous Systems Lab (ASL), Stanford University
-"""
 
 from functools import partial
 from time import time
